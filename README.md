@@ -11,3 +11,9 @@ Application has following functionalities :
 7. User can download the record summary in the form of text or csv file.
 8. User can upload data in text format and it will be also get updated in database.
 
+# Actual Platform
+![alt text](https://github.com/alsulke/Pharmacy-Store-Management-using-Django/blob/master/1.png)
+--------------------------------------------------------------------------------------------------
+![alt text](https://github.com/alsulke/Pharmacy-Store-Management-using-Django/blob/master/2.png)
+![alt text](https://github.com/alsulke/Pharmacy-Store-Management-using-Django/blob/master/3.png)
+![alt text](https://github.com/alsulke/Pharmacy-Store-Management-using-Django/blob/master/4.png)
